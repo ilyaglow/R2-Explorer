@@ -71,6 +71,14 @@
             <span>Update Available</span>
           </a>
         </li>
+
+        <li>
+          <button type="button" class="btn btn-warning w-100">
+            <a class="text-white" href="/cdn-cgi/access/logout">
+              Logout
+            </a>
+          </button>
+        </li>
       </ul>
 
     </div>
